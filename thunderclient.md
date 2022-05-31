@@ -1,0 +1,1 @@
+https://developers.refinitiv.com/en/article-catalog/article/how-to-test-http-rest-api-easily-with-visual-studio-code---thund#:~:text=VSCode%20Thunder%20Client%3A%20Installation,extension%20and%20click%20install%20it.
